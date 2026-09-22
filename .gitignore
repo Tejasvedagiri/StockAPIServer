@@ -148,7 +148,7 @@ activemq-data/
 *.sage.py
 
 # Environments
-.env
+.stash-stockapiserver/.env
 .envrc
 .venv
 env/
@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/data/stockmcp.db
+/resources/robinhood/781fe758-cebb-54d3-9e38-e20286387d39.csv
+/JFI/
+/resources/
+/data/
+/.stash-stockapiserver/
+/.jfi-scratch-merge-and-api/
+/.env
+/.jfi/
